@@ -1,7 +1,7 @@
 # HPSC Lab 13
 2019-11-22
 
-Click to [make your own repo](TO DO).
+Click to [make your own repo](https://classroom.github.com/a/rw4AstkF).
 
 The goals for this lab are:
 * Use GROMACS
