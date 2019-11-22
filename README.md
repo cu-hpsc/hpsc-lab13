@@ -169,4 +169,4 @@ With this corrected trajectory, we can look at the structural stability over tim
 gmx rms -s md_0_1.tpr -f md_0_1_noPBC.xtc -o rmsd.xvg -tu ns
 ```
 
-The resulting .xvg file won't be very interesting in this instance because the duration was so short, but we can observe some stability being to arise.
+The resulting .xvg file won't be very interesting in this instance because the duration was so short, but we can observe some stability begin to arise.
